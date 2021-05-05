@@ -1,0 +1,6 @@
+tank1,3.0,triple bullet,3,light bullet
+tank2,3.0,med bullet,0,weaker body
+tank3,3.0,energy steal,0,fear
+tank4,3.0,heavy wound,3,overload
+tank5,3.0,pierce,2,weaker bullets
+tank6,3.0,armored,0,-,
